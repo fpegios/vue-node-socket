@@ -1,0 +1,24 @@
+{
+  "name": "vue-node-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -i myapp/ server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpegios/vue-node-socket.git"
+  },
+  "author": "fpegios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpegios/vue-node-socket/issues"
+  },
+  "homepage": "https://github.com/fpegios/vue-node-socket#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10",
+    "server": "^1.0.18"
+  }
+}
